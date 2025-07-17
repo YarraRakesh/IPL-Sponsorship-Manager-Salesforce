@@ -12,22 +12,34 @@ IPL-SPONSORSHIP-MANAGER-SALESFORCE/
 
 ├── email_templates/
 
-│ └── high_sponsorship_alert.html
+│     └── high_sponsorship_alert.html
 
 │
 
 ├── flows/
-│ └── sponsorship_alert_flow.png
+
+│    └── sponsorship_alert_flow.png
+
 │
+
 ├── sample_data/
-│ ├── sponsors.csv
-│ └── sponsorships.csv
+
+│    ├── sponsors.csv
+
+│    └── sponsorships.csv
+
 │
+
 ├── screenshots/
-│ ├── dashboard.png
-│ ├── email-alert.png
+
+│    ├── dashboard.png
+
+│    ├── email-alert.png
+
 │ └── report.png
+
 │
+
 └── README.md
 
 
