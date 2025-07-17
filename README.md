@@ -7,10 +7,15 @@ This Salesforce project helps manage IPL sponsors, their sponsorships, budgets, 
 ## 📁 Project Structure
 
 IPL-SPONSORSHIP-MANAGER-SALESFORCE/
+
 │
+
 ├── email_templates/
+
 │ └── high_sponsorship_alert.html
+
 │
+
 ├── flows/
 │ └── sponsorship_alert_flow.png
 │
